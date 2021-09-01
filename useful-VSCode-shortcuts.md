@@ -1,5 +1,7 @@
 # useful VSCode shortcuts
 
+## shortcut table
+
 | Category      | Keys                      | Function                      |
 | :-----------: | :------------------------ | :---------------------------- |
 | Filehandling  |                           |                               |
@@ -34,4 +36,4 @@
 
 ## Links
 
-[private](https://github.com/chraebsli/templates/sonstige/VSCode-shortcuts.md)
+[private page](https://github.com/chraebsli/templates/blob/main/sonstige/VSCode-shortcuts.md)
