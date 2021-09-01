@@ -36,4 +36,4 @@
 
 ## Links
 
-[private page](https://github.com/chraebsli/templates/blob/main/sonstige/VSCode-shortcuts.md)
+[private page](https://github.com/chraebsli/templates/blob/master/sonstige/VSC-shortcuts.md)
