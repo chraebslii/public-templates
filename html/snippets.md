@@ -23,9 +23,6 @@
 
 > forwards the link when the page loads
 
-- content: delay in seconds
-- url: redirect URL
-
 ```html
 <meta http-equiv="refresh" content="0.1; url = https://url.to.link/with/path" />
 ```
@@ -35,8 +32,6 @@
 ### Editable content
 
 > the content of this tag is editable
-
-<p contenteditable="true">Try to edit the content</p>
 
 ```html
 <p contenteditable="true">Try to edit the content</p>
@@ -48,8 +43,6 @@
 
 > Your input will get spellchecked
 
-<input type="text" spellcheck="true" />
-
 ```html
 <input type="text" spellcheck="true" />
 ```
@@ -59,8 +52,6 @@
 ### Input for files
 
 > Upload multiple files
-
-<input type="file" multiple />
 
 ```html
 <input type="file" multiple />
@@ -89,12 +80,6 @@
 
 > You can display details on hover
 
-<p>
-  Hover
-  <abbr title="This text will be shown if you hover">here</abbr>
-  to see magic
-</p>
-
 ```html
 <p>
   Hover
@@ -108,11 +93,6 @@
 ### Wrapper
 
 > A simple wrapper without JS
-
-<details>
-  <summary>click for deatils</summary>
-  <p>This is a deatiled text</p>
-</details>
 
 ```html
 <details>
@@ -139,17 +119,6 @@
 
 > A Dropdown with categories for input
 
-<select>
-  <optgroup label="Android">
-    <option value="Samsung">Samsung</option>
-    <option value="Xiaomi">Xiaomi</option>
-    <option value="Oneplus">Oneplus</option>
-  </optgroup>
-  <optgroup label="iOS">
-    <option value="iPhone">iPhone</option>
-  </optgroup>
-</select>
-
 ```html
 <select>
   <optgroup label="Android">
@@ -168,16 +137,6 @@
 ### Fieldset
 
 > A fieldset with a description
-
-<form action="">
-  <fieldset>
-    <legend>Login</legend>
-    <label for="username">Username</label>
-    <input type="text" name="username" id="username" />
-    <label for="password">Passowrd</label>
-    <input type="password" name="password" id="password" />
-  </fieldset>
-</form>
 
 ```html
 <form action="">
@@ -219,8 +178,6 @@
 ### noscript
 
 > If the browser doesn't support JS or JS is disabled
-
-<noscript> Sorry, your browser does not support JavaScript! </noscript>
 
 ```html
 <noscript> Sorry, your browser does not support JavaScript! </noscript>
