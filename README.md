@@ -1,5 +1,14 @@
 # public-templates
 
+## structure
+
+- [files](#files)
+  - [html snippets](#html-snippets)
+  - [useful VSCode shortcuts](#useful-vscode-shortcuts)
+  - [useful websites](#useful-websites)
+  - [emmet cheatsheet](#emmet-cheatsheet)
+- [Deepsource](#deepsource)
+
 ## files
 
 ### useful VSCode shortcuts
@@ -23,6 +32,13 @@
 > a list of useful emmet commands you should know
 
 - [Link to file](./emmet-cheatsheet.md)
+
+### html snippets
+
+> a list of useful HTML snippets for your next HTML project
+
+- [Link to MD file](./html/snippets.md)
+- [Link to HTML file](./html/snippets.html)
 
 ## deepsource
 
