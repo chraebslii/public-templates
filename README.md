@@ -16,6 +16,14 @@
 
 - [Link to file](./useful-websites.md)
 
+---------------
+
+### emmet cheatsheet
+
+> a list of useful emmet commands you should know
+
+- [Link to file](./emmet-cheatsheet.md)
+
 ## deepsource
 
 [![DeepSource](https://deepsource.io/gh/chraebsli/public-templates.svg/?label=active+issues&show_trend=true&token=iPLEZ6LBUKt48PkFFHeE401w)](https://deepsource.io/gh/chraebsli/public-templates/?ref=repository-badge)
