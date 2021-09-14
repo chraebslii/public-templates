@@ -1,0 +1,92 @@
+<h1>Snippets for special elements</h1>
+
+<h3>Link forwarding on load</h3>
+<p>(See Code)</p>
+<!--
+    <meta http-equiv="refresh" content="0.1; url = https://url.to.link/with/path" />
+-->
+
+<h3>Edit content</h3>
+<p contenteditable="true">Try to edit the content</p>
+
+<h3>Input with spellchecker</h3>
+<input type="text" spellcheck="true" />
+
+<h3>Input for multiple files</h3>
+<input type="file" multiple />
+
+<h3>input with autocomplete and suggestions</h3>
+<input list="posts" name="post" id="post" />
+<datalist id="posts">
+  <option value="11111"></option>
+  <option value="22222"></option>
+  <option value="33333"></option>
+  <option value="44444"></option>
+  <option value="55555"></option>
+</datalist>
+
+<h3>acronym on hover</h3>
+<p>
+  Hover
+  <abbr title="This text will be shown if you hover">here</abbr>
+  to see magic
+</p>
+
+<h3>wrapper</h3>
+<details>
+  <summary>click for deatils</summary>
+  <p>This is a deatiled text</p>
+</details>
+
+<h3>base URL</h3>
+
+<head>
+  <base href="https://github.com/" />
+</head>
+
+<body>
+  <a href="chraebsli">chraebsli on github</a>
+</body>
+
+<h3>select option with categories</h3>
+<select>
+  <optgroup label="Android">
+    <option value="Samsung">Samsung</option>
+    <option value="Xiaomi">Xiaomi</option>
+    <option value="Oneplus">Oneplus</option>
+  </optgroup>
+  <optgroup label="iOS">
+    <option value="iPhone">iPhone</option>
+  </optgroup>
+</select>
+
+<h3>Fieldset with legend</h3>
+<form action="">
+  <fieldset>
+    <legend>Login</legend>
+    <label for="username">Username</label>
+    <input type="text" name="username" id="username" />
+    <label for="password">Passowrd</label>
+    <input type="password" name="password" id="password" />
+  </fieldset>
+</form>
+
+<h3>show/hide password</h3>
+<input type="password" id="pwinput" />
+<button id="tgpwbutton">Toggle Password</button>
+<script>
+  const passwordinput = document.querySelector("#pwinput");
+  const tgbutton = document.querySelector("#tgpwbutton");
+
+  tgbutton.addEventListener("click", () => {
+    if (passwordinput.type === "password") {
+      passwordinput.type = "text";
+    } else if (passwordinput.type === "text") {
+      passwordinput.type = "password";
+    }
+  });
+
+</script>
+
+<h3>Text wenn kein JS in Browser</h3>
+<noscript> Sorry, your browser does not support JavaScript! </noscript>
