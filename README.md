@@ -18,7 +18,7 @@
 
 - [Link to file](./useful-VSCode-shortcuts.md)
 
----------------
+---
 
 ### useful websites
 
@@ -26,7 +26,7 @@
 
 - [Link to file](./useful-websites.md)
 
----------------
+---
 
 ### emmet cheatsheet
 

@@ -2,7 +2,7 @@
 
 ## What is Emmet?
 
->Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow
+> Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow
 
 ## Links
 
@@ -65,7 +65,7 @@
 
 ```html
 <div>
-    <p></p>
+  <p></p>
 </div>
 ```
 
@@ -85,11 +85,11 @@
 
 ```html
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
 ```
 
@@ -99,11 +99,11 @@
 
 ```html
 <ul>
-    <li class="item1"></li>
-    <li class="item2"></li>
-    <li class="item3"></li>
-    <li class="item4"></li>
-    <li class="item5"></li>
+  <li class="item1"></li>
+  <li class="item2"></li>
+  <li class="item3"></li>
+  <li class="item4"></li>
+  <li class="item5"></li>
 </ul>
 ```
 
@@ -114,7 +114,7 @@
 ```html
 <div></div>
 <header>
-    <div></div>
+  <div></div>
 </header>
 <a href=""></a>
 <p></p>
@@ -125,10 +125,27 @@
 `p*4>lorem`
 
 ```html
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint architecto, sed assumenda maxime aliquam nulla, velit sit necessitatibus enim voluptatum vero sequi! Voluptates blanditiis quisquam minima natus commodi voluptatibus quae!</p>
-<p>Architecto a doloremque soluta sed nisi sunt vel eveniet eum eaque deleniti, repudiandae magni non quo qui amet, iure, ducimus ea dolores. Eaque accusamus atque recusandae dignissimos nisi expedita laborum.</p>
-<p>Ipsum, amet non eum ratione alias iusto fuga eveniet cupiditate delectus adipisci laudantium dolor unde. Ratione cum esse error nesciunt numquam ipsa exercitationem quam quibusdam ex! Quae voluptatem voluptas omnis.</p>
-<p>Suscipit similique quidem reprehenderit, possimus beatae cumque unde praesentium obcaecati excepturi dolorum ipsa adipisci esse ullam odit et! Vero possimus sed blanditiis ab temporibus quam iste impedit. Pariatur, quaerat unde.</p>
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint architecto, sed
+  assumenda maxime aliquam nulla, velit sit necessitatibus enim voluptatum vero
+  sequi! Voluptates blanditiis quisquam minima natus commodi voluptatibus quae!
+</p>
+<p>
+  Architecto a doloremque soluta sed nisi sunt vel eveniet eum eaque deleniti,
+  repudiandae magni non quo qui amet, iure, ducimus ea dolores. Eaque accusamus
+  atque recusandae dignissimos nisi expedita laborum.
+</p>
+<p>
+  Ipsum, amet non eum ratione alias iusto fuga eveniet cupiditate delectus
+  adipisci laudantium dolor unde. Ratione cum esse error nesciunt numquam ipsa
+  exercitationem quam quibusdam ex! Quae voluptatem voluptas omnis.
+</p>
+<p>
+  Suscipit similique quidem reprehenderit, possimus beatae cumque unde
+  praesentium obcaecati excepturi dolorum ipsa adipisci esse ullam odit et! Vero
+  possimus sed blanditiis ab temporibus quam iste impedit. Pariatur, quaerat
+  unde.
+</p>
 ```
 
 ---
@@ -154,10 +171,10 @@
 - `m2e -> margin: 2em`
 - `p2e -> padding: 2em`
 - `fw400 -> font-weight: 400`
-- ` -> `
-- ` -> `
-- ` -> `
-- ` -> `
+- `->`
+- `->`
+- `->`
+- `->`
 
 ### combinations
 
