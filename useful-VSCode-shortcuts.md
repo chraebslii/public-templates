@@ -33,7 +33,3 @@
 | others        |                        |                               |
 |               | ctrl + k -> ctrl + c   | add line comment              |
 |               |                        |                               |
-
-## Links
-
-[private page](https://github.com/chraebsli/templates/blob/master/sonstige/VSC-shortcuts.md)
