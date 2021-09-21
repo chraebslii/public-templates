@@ -5,6 +5,7 @@
 - [files](#files)
   - [html snippets](#html-snippets)
   - [css snippets](#css-snippets)
+  - [js snippets](#js-snippets)
   - [useful VSCode shortcuts](#useful-vscode-shortcuts)
   - [useful websites](#useful-websites)
   - [emmet cheatsheet](#emmet-cheatsheet)
@@ -43,9 +44,15 @@
 
 ### css snippets
 
-> a list of useful HTML snippets for your next HTML project
+> a list of useful CSS snippets for your next CSS project
 
 - [Link to MD file](./css/snippets.md)
+
+### js snippets
+
+> a list of useful JS snippets for your next JS project
+
+- [Link to MD file](./js/snippets.md)
 
 ## deepsource
 
