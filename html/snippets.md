@@ -1,6 +1,6 @@
 # HTML snippets
 
-## Links
+## Content
 
 [See in HTML](./snippets.html)
 

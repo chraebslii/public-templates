@@ -1,6 +1,6 @@
 # CSS snippets
 
-## Links
+## Content
 
 - [change cursor](change-cursor)
 - [smooth scrolling](smooth-scrolling)
