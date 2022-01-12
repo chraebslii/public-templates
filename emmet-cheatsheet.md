@@ -18,7 +18,7 @@
   - [grouping](#grouping)
   - [lorem ipsum](#lorem-ipsum)
 - [CSS](#css)
-  - [Value aliase](#value-aliase)
+  - [Value aliases](#value-aliases)
   - [Color aliases](#color-aliases)
   - [Unit aliases](#unit-aliases)
   - [combinations](#combinations)
@@ -126,25 +126,20 @@
 
 ```html
 <p>
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint architecto, sed
-  assumenda maxime aliquam nulla, velit sit necessitatibus enim voluptatum vero
-  sequi! Voluptates blanditiis quisquam minima natus commodi voluptatibus quae!
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint architecto, sed assumenda maxime aliquam nulla, velit
+  sit necessitatibus enim voluptatum vero sequi! Voluptates blanditiis quisquam minima natus commodi voluptatibus quae!
 </p>
 <p>
-  Architecto a doloremque soluta sed nisi sunt vel eveniet eum eaque deleniti,
-  repudiandae magni non quo qui amet, iure, ducimus ea dolores. Eaque accusamus
-  atque recusandae dignissimos nisi expedita laborum.
+  Architecto a doloremque soluta sed nisi sunt vel eveniet eum eaque deleniti, repudiandae magni non quo qui amet, iure,
+  ducimus ea dolores. Eaque accusamus atque recusandae dignissimos nisi expedita laborum.
 </p>
 <p>
-  Ipsum, amet non eum ratione alias iusto fuga eveniet cupiditate delectus
-  adipisci laudantium dolor unde. Ratione cum esse error nesciunt numquam ipsa
-  exercitationem quam quibusdam ex! Quae voluptatem voluptas omnis.
+  Ipsum, amet non eum ratione alias iusto fuga eveniet cupiditate delectus adipisci laudantium dolor unde. Ratione cum
+  esse error nesciunt numquam ipsa exercitationem quam quibusdam ex! Quae voluptatem voluptas omnis.
 </p>
 <p>
-  Suscipit similique quidem reprehenderit, possimus beatae cumque unde
-  praesentium obcaecati excepturi dolorum ipsa adipisci esse ullam odit et! Vero
-  possimus sed blanditiis ab temporibus quam iste impedit. Pariatur, quaerat
-  unde.
+  Suscipit similique quidem reprehenderit, possimus beatae cumque unde praesentium obcaecati excepturi dolorum ipsa
+  adipisci esse ullam odit et! Vero possimus sed blanditiis ab temporibus quam iste impedit. Pariatur, quaerat unde.
 </p>
 ```
 
@@ -152,7 +147,7 @@
 
 ## CSS
 
-### Value aliase
+### Value aliases
 
 - `p -> %`
 - `e -> em`

@@ -22,6 +22,12 @@
 |             | [Hidden Tools](https://hiddentools.dev/)                                  | a list of many useful tools as a developer          |
 |             | [Mobbin](https://mobbin.design/)                                          | UI/ UX inspiration                                  |
 |             | [Cruip](https://cruip.com/)                                               | get templates for websites                          |
+|             | [Tiny Helpers](https://tiny-helpers.dev/)                                 | collection of tiny tools for web devs               |
+|             | [Persona](https://withpersona.com/)                                       | building blocks for ideal layout                    |
+|             | [Mubert](https://mubert.com/)                                             | generate music with AI                              |
+|             | [Codelf](https://unbug.github.io/codelf/)                                 | find the perfect variable name                      |
+| Colors      |                                                                           |                                                     |
+|             | [Coolors](https://coolors.co/)                                            | color generator                                     |
 | CSS         |                                                                           |                                                     |
 |             | [Enjoy CSS](https://enjoycss.com/)                                        | for those, who aren't the best in CSS               |
 |             | [CSS Arrow please](https://cssarrowplease.com/)                           | Textbox with arrow generator                        |
@@ -44,6 +50,8 @@
 |             | [Resumemaker](https://www.resumemaker.online/)                            | make a nice resume fast and easy                    |
 |             | [Witeboard](https://witeboard.com/)                                       | free Whiteboard with live sharing                   |
 |             | [QR Code Generator](https://www.qr-code-generator.com/)                   | create QR Codes                                     |
+| Analytics   |                                                                           |                                                     |
+|             | [Hightouch](https://hightouch.io/)                                        | Data analytics from many sources                    |
 | other IT    |                                                                           |                                                     |
 |             | [Ninite](https://ninite.com/)                                             | Install the most common apps only with a few clicks |
 |             | [DB Designer](https://www.dbdesigner.net/)                                | create DB schemas without writing SQL               |
