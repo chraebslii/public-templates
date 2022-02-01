@@ -56,6 +56,6 @@
 
 ## deepsource
 
-[![DeepSource](https://deepsource.io/gh/chraebsli/public-templates.svg/?label=active+issues&show_trend=true&token=iPLEZ6LBUKt48PkFFHeE401w)](https://deepsource.io/gh/chraebsli/public-templates/?ref=repository-badge)
+[![DeepSource](https://deepsource.io/gh/chraebslii/public-templates.svg/?label=active+issues&show_trend=true&token=27WZvXyt54ydVB4_WpBR8tge)](https://deepsource.io/gh/chraebslii/public-templates/?ref=repository-badge)
 
-[![DeepSource](https://deepsource.io/gh/chraebsli/public-templates.svg/?label=resolved+issues&show_trend=true&token=iPLEZ6LBUKt48PkFFHeE401w)](https://deepsource.io/gh/chraebsli/public-templates/?ref=repository-badge)
+[![DeepSource](https://deepsource.io/gh/chraebslii/public-templates.svg/?label=resolved+issues&show_trend=true&token=27WZvXyt54ydVB4_WpBR8tge)](https://deepsource.io/gh/chraebslii/public-templates/?ref=repository-badge)
